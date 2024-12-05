@@ -10,3 +10,4 @@ print(float(age))
 age1=int(input("enter your name: "))
 print(age1+5)
 
+
