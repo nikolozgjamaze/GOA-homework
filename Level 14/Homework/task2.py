@@ -7,14 +7,14 @@
 
 #3
 
- name = "Nikolozi"
- age = 11
- height = 1.45
+name = "Nikolozi"
+age = 11
+height = 1.45
 
- if age > 11 and name == "Nikolozi" and height > 1.45:
-    print("Conditions are met.")
- else:
-    print("Conditions are not met.")
+if age > 11 and name == "Nikolozi" and height > 1.45:
+   print("Conditions are met.")
+else:
+   print("Conditions are not met.")
     
     
     #2
