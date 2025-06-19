@@ -1,0 +1,9 @@
+body {
+    background-color: blueviolet;
+}
+.a {
+    text-align: center; border-radius: 8px; border:double 3px black;
+}
+.b {
+    text-align: center;
+}

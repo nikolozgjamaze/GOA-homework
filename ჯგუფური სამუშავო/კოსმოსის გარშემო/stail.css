@@ -1,0 +1,16 @@
+h1{
+   text-align: left;
+}
+body{
+    background-color: blueviolet;
+}
+p{
+    text-align:center;
+}
+
+button{
+    background-color: black;
+    color: white;
+    text-align:center;
+}
+

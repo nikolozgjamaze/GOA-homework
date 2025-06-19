@@ -1,0 +1,12 @@
+div {
+    border:3px black dashed; border-radius: 8px; background-color: blue;
+}
+body {
+    background-color: blueviolet;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
