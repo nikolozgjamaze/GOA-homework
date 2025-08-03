@@ -1,0 +1,68 @@
+
+#a{
+color: rgb(16, 9, 212);
+font-size: 300%;
+  text-shadow: 2px 4px 3px rgb(0, 47, 255);
+   
+}
+
+#b{color: rgb(212, 9, 9);
+font-size: 300%;
+  text-shadow: 2px 4px 3px rgb(197, 13, 13);
+   }
+
+#c{
+color: rgb(213, 245, 7);
+font-size: 300%;
+  text-shadow: 2px 4px 3px rgb(170, 255, 0);
+   
+}
+#d{
+   color: rgb(62, 6, 230);
+font-size: 300%;
+  text-shadow: 2px 4px 4px rgb(0, 64, 255);
+    
+}
+#e{
+color: rgb(255, 1, 1);
+font-size: 300%;
+  text-shadow: 2px 4px 3px rgb(255, 0, 0);
+   
+}
+#v{
+color: rgb(212, 205, 9);
+font-size: 300%;
+  text-shadow: 2px 4px 3px rgb(255, 242, 0);
+   
+}
+#z{
+color: rgb(9, 73, 212);
+font-size: 300%;
+  text-shadow: 2px 4px 3px rgb(0, 55, 255);
+   
+}
+#t{
+color: rgb(241, 3, 3);
+font-size: 300%;
+  text-shadow: 2px 4px 3px rgb(255, 0, 0);
+   
+}
+    body{
+        background: url(https://asset.gecdesigns.com/img/background-templates/abstract-background-design-transitioning-from-orange-to-purple-10032403-1710078711067-cover.webp)
+     
+    }
+    #niko{
+        color: rgb(232, 114, 67);
+    }
+button{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    
+
+    color: blue;
+    text-shadow: 2px 4px 3px rgb(255, 0, 0);
+   
+
+}

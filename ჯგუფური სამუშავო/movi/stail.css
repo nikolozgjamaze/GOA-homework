@@ -1,0 +1,33 @@
+
+    .div{
+      width: 280px;
+      height: 555px;
+      border-radius: 20%;
+      background:url(https://cdn.pixabay.com/photo/2025/04/02/18/48/background-9509852_1280.jpg)
+      
+     
+      
+    }
+    body{
+        background: url(https://asset.gecdesigns.com/img/background-templates/abstract-background-design-transitioning-from-orange-to-purple-10032403-1710078711067-cover.webp)
+     
+    }
+
+h1{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+input{
+    border-radius: 40%;
+}
+a{
+    text-align: center;
+}
+button{
+    transform: scale(1.5);
+  
+}
+
